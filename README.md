@@ -1,4 +1,4 @@
-![👋 Hi, my name is Anderson Chale](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
+![👋 Hi, my name is Anderson](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
 ![Profile views](https://komarev.com/ghpvc/?username=andersonchale&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -6,7 +6,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Anderson Chale
+        👋 Hi, my name is Anderson
       </h1>
     </summary>
   </ul>
